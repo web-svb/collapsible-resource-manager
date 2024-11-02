@@ -1,6 +1,8 @@
 {
-    "name": "digital-creative/collapsible-resource-manager",
+    "name": "web-svb/collapsible-resource-manager",
     "description": "A custom sidebar menu with collapsible groups",
+    "type": "library",
+    "version": "dev-main",
     "keywords": [
         "laravel",
         "nova",
